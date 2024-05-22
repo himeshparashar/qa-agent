@@ -1,0 +1,5 @@
+**/.env
+.env
+/chatbot/.env
+/ui/.env
+chatbot/.env
