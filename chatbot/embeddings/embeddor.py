@@ -1,6 +1,7 @@
 from langchain_chroma import Chroma
 import openai
 from fastapi import HTTPException
+from langchain.embeddings import OpenAIEmbeddings
 
 import os
 from dotenv import load_dotenv
